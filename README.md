@@ -26,7 +26,8 @@ Dataset Management | ETL | Data Scraping | Lead Generation | Prospect Research
 ![Apollo.io](https://img.shields.io/badge/Apollo.io-7C3AED?style=flat&logoColor=white)
 ![Hunter.io](https://img.shields.io/badge/Hunter.io-F97316?style=flat&logoColor=white)
 ![LinkedIn Sales Navigator](https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
+![Clay](https://img.shields.io/badge/Clay-000000?style=flat&logo=data&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-FF6B00?style=flat&logo=apify&logoColor=white)
 ---
 
 ## Featured Project
