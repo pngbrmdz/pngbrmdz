@@ -2,7 +2,7 @@
 
 I build structured, clean, verified and accurate data for businesses that need it done right.
 
-Dataset Management | ETL | Data Scraping | Lead Generation | Prospect Research
+Dataset Management | Junior ETL Dev | Data Scraping | Lead Generation | Prospect Research
 
 ---
 
